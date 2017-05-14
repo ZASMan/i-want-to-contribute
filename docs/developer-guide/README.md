@@ -7,12 +7,12 @@ If there's any information that you did **not** see in this guide, but would hav
 ### Table of Contents
 
 - The Dev Environment
-    - [Setting Up Your Environment](#)
-    - [What Does `yarn start` Really Do?](#)
-    - [Why Are We Using Express?](#)
-    - [Foreman and Procfiles](#)
-    - [Running Only The UI Server](#)
-    - [Running Only The Express Server](#)
+    - [Setting Up Your Environment](setting-up-your-environment.md)
+    - [What Does `yarn start` Really Do?](yarn-start.md)
+    - [Why Are We Using Express?](express-usage.md)
+    - [Foreman and Procfiles](foreman-and-procfiles.md)
+    - [Running Only The UI Server](running-the-ui-server.md)
+    - [Running Only The Express Server](running-the-express-server.md)
 - Deploying
-    - [Bundled into Single Deploy (the easy way)](#)
-    - [The Semi-Microservice Approach (a bit harder, but still easy)](#)
+    - [Bundled into Single Deploy (the easy way)](bundled-deployment.md)
+    - [The Semi-Microservice Approach (a bit harder, but still easy)](semi-microservice-deployment.md)
